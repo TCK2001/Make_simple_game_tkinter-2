@@ -1,3 +1,4 @@
+## Click the button faster than faster
 ```python
 from tkinter import*
 import random
